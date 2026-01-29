@@ -26,7 +26,7 @@ A work-in-progress 2D tower defense game using the Godot game engine with GDScri
 ## MoreInfo - Hytale server mod
 Inspired by the Minecraft 5zig mod that contained plenty of simple but very useful features, MoreInfo is a Hytale server plugin programmed in Java. Developing a mod for Hytale has been challenging due to the lack of proper documentation, meaning the only way to learn was to read the source code of the server.
 
-![MoreInfo](https://github.com/user-attachments/assets/d945da7f-b24f-49a2-ac60-8acad3bd941f")
+![MoreInfo](https://github.com/user-attachments/assets/d945da7f-b24f-49a2-ac60-8acad3bd941f)
 
 
 ## Synfo - System Information
